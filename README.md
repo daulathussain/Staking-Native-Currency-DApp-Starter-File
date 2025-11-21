@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2025/11/Create-Deploy-Staking-Native-Currency-DApp-Earn-ERC20-Token-Rewards-Next.js-Solidity-Full-Project.jpeg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-and-deploy-staking-native-currency-dapp-or-earn-erc20-token-rewards-or-next.js-+-solidity-full-project)
 
 #### Setup Video
 
