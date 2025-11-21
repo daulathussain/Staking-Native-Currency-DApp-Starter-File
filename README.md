@@ -1,6 +1,6 @@
 # Staking Native Currency DApp | Earn ERC20 Token Rewards
 
-![alt text]()
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/11/Create-Deploy-Staking-Native-Currency-DApp-Earn-ERC20-Token-Rewards-Next.js-Solidity-Full-Project.jpeg)
 
 - [Final Source Code]()
 
